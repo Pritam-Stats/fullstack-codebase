@@ -1,0 +1,22 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    font-size: 80px;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
